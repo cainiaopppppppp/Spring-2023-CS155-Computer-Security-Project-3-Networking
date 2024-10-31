@@ -1,0 +1,4 @@
+1. [Your submission should have a format of '1. nmap -ARG -args ...']
+2. [Your submission should have a format of '2. 123.99.123.1' (no preceding zeros)]
+3. [Your submission should have a format of '3. <3389: mstsc>, <443: https>']
+4. [Your submission should have a format of '4. SOFTWARE=<iis>, VERSION=<7.5.4>, PORTS=<129, 5679>' (if there is only one port used, leave the PORT2 blank)]

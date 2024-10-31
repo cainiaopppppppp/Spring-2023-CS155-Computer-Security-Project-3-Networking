@@ -1,0 +1,4 @@
+1. 端口“关闭”意味着该端口上没有服务在监听。 RST类型。
+2. 端口“过滤”意味着数据包被防火墙或过滤器阻止。 服务器通常不会对SYN数据包作出响应，导致没有响应。
+3. REQUESTS=<OPTIONS>, <PROPFIND>, <POST>
+4. <Maximum segment size>, <Window scale>, <SACK permitted>, <Timestamps>, <No-Operation (NOP)>

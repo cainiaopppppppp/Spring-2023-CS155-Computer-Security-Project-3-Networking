@@ -1,0 +1,4 @@
+1. [Your submission should have a format of '1. XXX' where XXX is a TCP flag (like SYN) or NIL if no packet is sent]
+2. [Your submission should have a format of '2. XXX' where XXX is a TCP flag (like SYN) or NIL if no packet is sent]
+3. [Your submission should have a format of '3. REQUESTS=<xxx>, <yyy>, <zzz>, <uuu>, <vvv>' (with '< >' around request names, separated by ',')]
+4. [Your submission should have a format of '4. <parameter 1>, <parameter 2>' where parameters are TCP parameters as presented by Wireshark (like 'Source Port')]
